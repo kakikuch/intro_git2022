@@ -1,6 +1,5 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
-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
 
 ・git add
 ・git commit
